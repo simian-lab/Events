@@ -1,0 +1,27 @@
+﻿CACHE MANIFEST
+# 2010-06-18:v3
+
+Index.html
+
+Database/DB.js
+Scripts/linq.min.js
+Scripts/jquery-1.9.1.min.js
+Scripts/jquery-1.9.1.min.map
+
+Scripts/kendo/2013.3.1119/kendo.web.min.js
+Scripts/kendo/2013.3.1119/kendo.view.min.js.map
+Scripts/Simian.js
+
+Content/kendo/2013.3.1119/kendo.common.min.css
+Content/kendo/2013.3.1119/kendo.flat.min.css
+
+Content/kendo/2013.3.1119/flat/editor.png
+Content/kendo/2013.3.1119/flat/imagebrowser.png
+Content/kendo/2013.3.1119/flat/indeterminate.gif
+Content/kendo/2013.3.1119/flat/loading-image.gif
+Content/kendo/2013.3.1119/flat/loading.gif
+Content/kendo/2013.3.1119/flat/loading_2x.gif
+Content/kendo/2013.3.1119/flat/slider-h.gif
+Content/kendo/2013.3.1119/flat/slider-v.gif
+Content/kendo/2013.3.1119/flat/sprite.png
+Content/kendo/2013.3.1119/flat/sprite_2x.png
