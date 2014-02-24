@@ -3,7 +3,9 @@
 
 Index.html
 
-Database/DB.js
+Scripts/App/DB.js
+Scripts/App/Simian.js
+
 Scripts/linq.min.js
 Scripts/jquery-1.9.1.min.js
 Scripts/jquery-1.9.1.min.map
