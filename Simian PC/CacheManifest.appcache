@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-# 2010-06-18:v3
+# 2010-06-18:v5
 
 Index.html
 
@@ -11,8 +11,7 @@ Scripts/jquery-1.9.1.min.js
 Scripts/jquery-1.9.1.min.map
 
 Scripts/kendo/2013.3.1119/kendo.web.min.js
-Scripts/kendo/2013.3.1119/kendo.view.min.js.map
-Scripts/Simian.js
+Scripts/kendo/2013.3.1119/kendo.web.min.js.map
 
 Content/kendo/2013.3.1119/kendo.common.min.css
 Content/kendo/2013.3.1119/kendo.flat.min.css
